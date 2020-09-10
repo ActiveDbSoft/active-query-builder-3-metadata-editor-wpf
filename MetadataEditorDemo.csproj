@@ -38,55 +38,55 @@
     <ApplicationIcon>App.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ActiveQueryBuilder.AdvantageMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.AdvantageMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.AdvantageMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.Core, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.Core, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.Core.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.DB2MetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.DB2MetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.DB2MetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.FirebirdMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.FirebirdMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.FirebirdMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.InformixMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.InformixMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.InformixMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.MSSQLCEMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.MSSQLCEMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.MSSQLCEMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.MSSQLMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.MSSQLMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.MSSQLMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.MySQLMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.MySQLMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.MySQLMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.ODBCMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.ODBCMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.ODBCMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.OLEDBMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.OLEDBMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.OLEDBMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.OracleMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.OracleMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.OracleMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.PostgreSQLMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.PostgreSQLMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.PostgreSQLMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.SQLiteMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.SQLiteMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.SQLiteMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.SybaseMetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.SybaseMetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.SybaseMetadataProvider.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.View, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.View, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.View.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.View.WPF, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.View.WPF, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.View.WPF.dll</HintPath>
     </Reference>
-    <Reference Include="ActiveQueryBuilder.VistaDB5MetadataProvider, Version=3.7.1.1174, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.VistaDB5MetadataProvider, Version=3.7.2.1175, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\Assemblies\Pro\ActiveQueryBuilder.VistaDB5MetadataProvider.dll</HintPath>
     </Reference>
     <Reference Include="System" />
