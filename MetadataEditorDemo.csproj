@@ -38,39 +38,39 @@
     <ApplicationIcon>App.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ActiveQueryBuilder.AdvantageMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.AdvantageMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.Core, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.Core, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.DB2MetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.DB2MetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.FirebirdMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.FirebirdMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.InformixMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.InformixMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.MSSQLCEMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.MSSQLCEMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.MSSQLMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.MSSQLMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.MySQLMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.MySQLMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.ODBCMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.ODBCMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.OLEDBMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.OLEDBMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.OracleMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.OracleMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.PostgreSQLMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.PostgreSQLMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.SQLiteMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.SQLiteMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.SybaseMetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.SybaseMetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.View, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.View, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.View.WPF, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.View.WPF, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
-    <Reference Include="ActiveQueryBuilder.VistaDB5MetadataProvider, Version=3.7.6.1181, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
+    <Reference Include="ActiveQueryBuilder.VistaDB5MetadataProvider, Version=3.7.7.1182, Culture=neutral, PublicKeyToken=49d051b90653c7f4, processorArchitecture=MSIL">
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
