@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetadataEditorDemo.wpf.cs", "MetadataEditorDemo.wpf.cs.csproj", "{C4F0EFD9-292E-4BC4-8395-43533FD4C7B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F0EFD9-292E-4BC4-8395-43533FD4C7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F0EFD9-292E-4BC4-8395-43533FD4C7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F0EFD9-292E-4BC4-8395-43533FD4C7B1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F0EFD9-292E-4BC4-8395-43533FD4C7B1}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9E959A-5D0A-4449-8459-B37AD532199F}
+	EndGlobalSection
+EndGlobal
